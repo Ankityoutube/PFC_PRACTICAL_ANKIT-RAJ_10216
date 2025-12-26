@@ -18,4 +18,4 @@ int main()
 }
 //output
 // enter a number1234
-// 10
+// 
